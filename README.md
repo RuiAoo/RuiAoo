@@ -1,10 +1,13 @@
 ### Halo
+</br></br>
+👉关于我</br>
+WaldinsamKeit，德语，意为“森林的孤独”。即我的孤独，还有这个世界上跟我一样孤独的那些人。
 
-I'm is Ziy.
-我是子遥。
+</br></br>
+----
 
 
-👇👇
+👇👇</br>
 <a href="https://blog.csdn.net/weixin_42950931">CSDN</a>
 
 
