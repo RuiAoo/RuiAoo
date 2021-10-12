@@ -7,7 +7,7 @@
  #### Python  基础+后端框架Flask\Django\Tornado
  #### Golang
  #### 算法、数据结构、Linux
- #### 前端 Vue、React
+ #### 前端 Vue、React、JS
 
 
 
