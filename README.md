@@ -2,6 +2,13 @@
  
  #### 这里是一个精通CTRL + C/V的高级工程师
 
+ ## good code ✅
+ “What the fuck?”
+
+ ## fuck code ❌
+ “What the fuck is this shit?”
+ “Dude, What the fuck！”
+
 
 
 
